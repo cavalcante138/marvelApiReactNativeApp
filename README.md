@@ -1,11 +1,9 @@
 # Marvel Api Teste React Native
-## Features
-
-### Splash Screen
-### Animações com Lottie
-
-### Tela de Personagens
-### Testes unitários com Jest
+* Features
+* Splash Screen
+* Animações com Lottie
+* Tela de Personagens
+* Testes unitários com Jest
 
 Segui o design enviado, porém fiz pequenas alterações no mobile como a inserção de um icone de busca no Input, e aumentei um pouco os números da paginação.
 
@@ -20,7 +18,7 @@ PRIVATE_KEY=<sua_chave_privada>
 
 ## Como executar os testes unitários
 
-Para executar os testes unitários, você de executar o seguinte comando no terminal:
+Para realizar a execução dos testes unitários, é necessário executar o comando abaixo no terminal:
 
 ```bash
 yarn test
