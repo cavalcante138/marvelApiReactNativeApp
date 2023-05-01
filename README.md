@@ -1,5 +1,5 @@
 # Marvel Api Teste React Native
-* Features
+## Features
 * Splash Screen
 * Animações com Lottie
 * Tela de Personagens
