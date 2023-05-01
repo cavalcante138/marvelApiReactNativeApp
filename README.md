@@ -18,6 +18,14 @@ PUBLIC_KEY=<sua_chave_pública>
 PRIVATE_KEY=<sua_chave_privada>
 ```
 
+## Como executar os testes unitários
+
+Para executar os testes unitários, você de executar o seguinte comando no terminal:
+
+```bash
+yarn test
+```
+
 ## Pré-requisitos
 
 Certifique-se de ter instalado:
