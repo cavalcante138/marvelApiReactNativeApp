@@ -1,39 +1,37 @@
-# Marvel Api Teste React Native
+# Marvel Api React Native App
 ## Features
 * Splash Screen
-* Animações com Lottie
-* Tela de Personagens
-* Testes unitários com Jest
+* Animations with Lottie
+* Characters Screen
+* Unit Tests with Jest
 
-Segui o design enviado, porém fiz pequenas alterações no mobile como a inserção de um icone de busca no Input, e aumentei um pouco os números da paginação.
+## Configuration of Environment Variables
 
-## Configuração das variáveis de ambiente
-
-Você precisará criar um arquivo .env na raiz do projeto para configurar as variáveis de ambiente necessárias com a API da Marvel. Adicione as seguintes variáveis:
+You will need to create a .env file in the root of the project to set up the necessary environment variables for the Marvel API. Add the following variables:
 
 ```bash
 PUBLIC_KEY=<sua_chave_pública>
 PRIVATE_KEY=<sua_chave_privada>
 ```
 
-## Como executar os testes unitários
+## How to Run Unit Tests
 
-Para realizar a execução dos testes unitários, é necessário executar o comando abaixo no terminal:
+To run the unit tests, you need to execute the following command in the terminal:
 
 ```bash
 yarn test
 ```
 
-## Pré-requisitos
+## Prerequisites
 
-Certifique-se de ter instalado:
+Make sure you have installed:
 
 - [Node.js](https://nodejs.org/en/download/)
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
-## Instalação de dependências
+## Installing Dependencies
 
-Para instalar as dependências do projeto, abra um terminal e navegue até a pasta do projeto. Em seguida, execute o seguinte comando:
+To install project dependencies, open a terminal and navigate to the project folder. Then, execute the following command:
 
 ```bash
 yarn install
