@@ -15,9 +15,6 @@ export function Logo(){
         <LogoTitle>
           Busca Marvel
         </LogoTitle>
-        <LogoSubtitle>
-          Teste React Native
-        </LogoSubtitle>
       </LogoContainer>
       <BottomLine />
     </Container>

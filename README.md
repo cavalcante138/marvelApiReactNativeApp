@@ -1,4 +1,7 @@
 # Marvel Api React Native App
+
+This application was developed as part of a development test. The goal was to create the layout provided by a designer and implement the Marvel API using React Native, along with unit tests.
+
 ## Features
 * Splash Screen
 * Animations with Lottie
